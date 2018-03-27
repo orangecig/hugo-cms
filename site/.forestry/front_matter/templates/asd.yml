@@ -7,3 +7,4 @@ fields:
   description: sdlkjfjglkjdj
   config:
     wysiwyg: true
+  default: 'asdf asd asd '
